@@ -1,0 +1,13 @@
+# theme.toml for the Buttery Hugo theme
+name = "Buttery Hugo"
+license = "CC-BY-3.0"
+licenselink = "https://github.com/butterops/buttery-hugo/blob/master/LICENSE"
+description = "Buttery by ButterOps.Dev ported to Hugo"
+homepage = "https://buttery.butterops.dev"
+tags = ["onepage", "bootstrap", "community", "butterops.dev"]
+features = ["onepage"]
+min_version = "0.62.2"
+
+[author]
+  name = "ButterOps.Dev"
+  homepage = "https://butterops.dev/"

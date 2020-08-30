@@ -1,0 +1,137 @@
+############################# banner ############################
+banner:
+  enable : true
+  title : "Software Community As <sup>open</sup>Service"
+  content : "Open sourced ``apps``, free ``services`` and shared ``knowledge base`` to start and grow your profitable online business, side projects or software development career."
+  image : "images/creators.png"
+  button:
+   enable : true
+   label : "Join ButterOps.Dev Free"
+   link : "https://butterops.slack.com"
+
+############################# Feature ############################
+features:
+  enable : true
+  title : "Co-create<sup>open</sup> to ~~Contribute~~ Earn"
+  image : "images/creators.png"
+
+  # feature at the left of the image
+  left_side:
+    # feature item loop
+  - title : "Cloud Deployments with CI/CD Pipelines"
+    icon : "tf-ion-ios-alarm-outline"
+    content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatem, inventore?"
+    
+    # feature item loop
+  - title : "Enterprise Std. Collaboration"
+    icon : "tf-ion-ios-bell-outline"
+    content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatem, inventore?"
+    
+    # feature item loop
+  - title : "Less IT, Zero Silos, Butter Ops"
+    icon : "tf-ion-ios-cart-outline"
+    content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatem, inventore?"
+
+
+  # feature at the right of the image
+  right_side:
+    # feature item loop
+  - title : "Code & Project Management"
+    icon : "tf-ion-ios-alarm-outline"
+    content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatem, inventore?"
+
+    # feature item loop
+  - title : "Wiki, Slack, Meetings"
+    icon : "tf-ion-ios-bell-outline"
+    content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatem, inventore?"
+
+    # feature item loop
+  - title : "Security and performance monitoring"
+    icon : "tf-ion-ios-cart-outline"
+    content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatem, inventore?"
+
+
+############################# promo ############################
+promo:
+  enable : true
+  image : "images/creators.png"
+  title : "Onboard today with your Startup Project, Team or Idea"
+  content : "Designed by professionals and intended to be forever free and remote, at ButterOps.Dev we try to fix this gap of lack of a workflow in programmers 
+            and expose them to the best practices of software development to gradually complement their programming skills.
+            Designed by professionals and intended to be forever free and remote, at ButterOps.Dev we try to fix this gap of lack of a workflow in programmers 
+            and expose them to the best practices of software development to gradually complement their programming skills."
+
+
+############################# About Product #######################
+about_product:
+  enable : false
+  title : "Whats your goal?"
+  items:
+    # about product item loop
+    - image : "images/frictionless-devops.png"
+      title : "Create ~~code~~ your software"
+      content : "At ButterOps.Dev we try to fix this gap of lack of a workflow in programmers 
+      and expose them to the best practices of software development to gradually complement their programming skills."
+      button:
+        enable : false
+        label : "Check Features"
+        link : "#"
+        
+    # about product item loop
+    - image : "images/frictionless-devops.png"
+      title : "Develop your ~~software~~ legacy"
+      content : "At ButterOps.Dev we try to fix this gap of lack of a workflow in programmers 
+      and expose them to the best practices of software development to gradually complement their programming skills."
+      button:
+        enable : false
+        label : "Check Features"
+        link : "#"
+
+    # about product item loop
+    - image : "images/frictionless-devops.png"
+      title : "Empower ~~help~~ your team"
+      content : "At ButterOps.Dev we try to fix this gap of lack of a workflow in programmers 
+      and expose them to the best practices of software development to gradually complement their programming skills."
+      button:
+        enable : false
+        label : "Check Features"
+        link : "#"
+
+
+#################################### Products ########################
+products:
+  enable : false
+  title : "Checkout Our All Products"
+
+
+################################## Subscription ###################
+subscription:
+  enable : true
+  bg_image : "images/collab.png"
+  title : "We learn, We share"
+  content : "We don't spam or advertise, subscribe today if you would also like to keep up with our further research and activities."
+  placeholder : "Your Email Address Here"
+
+
+############################## Testimonial ##########################
+testimonial:
+  enable : false
+  title : "The ButterOps.Dev Experience"
+  testimonial_item:
+    # testimonial item loop
+    - name : "Golu"
+      designation : "Student"
+      image : ""
+      content : ""
+      
+    # testimonial item loop
+    - name : "Dewanshu"
+      designation : "Professional"
+      image : ""
+      content : ""
+      
+    # testimonial item loop
+    - name : "Swapnil"
+      designation : "Teacher"
+      image : ""
+      content : ""

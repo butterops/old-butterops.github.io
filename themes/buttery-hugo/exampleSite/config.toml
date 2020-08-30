@@ -1,0 +1,99 @@
+################################### Default Configuration ############################
+baseurl = "http://buttery.butterops.dev"
+title = "Community as a Service"
+theme = "buttery-hugo"
+googleAnalytics = "" # Ex: UA-123-45
+disableLanguages = [] # desable language from here
+
+#################################### Plugins ##########################################
+
+# CSS Plugins
+[[params.plugins.css]]
+link = "https://fonts.googleapis.com/css?family=Droid+Serif:400|Josefin+Sans:300,400,600,700"
+[[params.plugins.css]]
+link = "plugins/bootstrap/bootstrap.min.css"
+[[params.plugins.css]]
+link = "plugins/slick/slick.min.css"
+
+# JS Plugins
+[[params.plugins.js]]
+link = "plugins/jquery/jquery.js"
+[[params.plugins.js]]
+link = "plugins/bootstrap/bootstrap.min.js"
+[[params.plugins.js]]
+link = "plugins/slick/slick.min.js"
+
+
+###################################### Navigation ######################################
+
+[[menu.main]]
+name = "Projects"
+URL = "https://github.com/butterops"
+weight = 1
+
+[[menu.main]]
+name = "Wiki"
+URL = "https://butterops.slite.com"
+weight = 2
+
+[[menu.main]]
+name = "News"
+URL = "https://butterops.dev.to"
+weight = 3
+
+[[menu.footer]]
+name = "Terms of Services"
+URL = "terms-services"
+weight = 4
+
+[[menu.footer]]
+name = "Privacy Policy"
+URL = "privacy-policy"
+weight = 5
+
+########################### Default parameters ##########################
+[params]
+logo = "images/logo.png"
+logo_width = "100px"
+description = "This is meta description"
+author = "ButterOps.Dev"
+
+# Preloader
+[params.preloader]
+enable = true
+preloader = "" # use .png , .svg or .gif format
+
+# Subscription mailchimp
+[params.subscription]
+mailchimp_form_action = "https://gmail.us4.list-manage.com/subscribe/post?u=463ee871f45d2d93748e77cad&amp;id=a0a2c6d074" # replace this url with yours
+mailchimp_form_name = "b_463ee871f45d2d93748e77cad_a0a2c6d074" # replace this code with yours
+
+
+################################### English language #####################################
+[Languages.en]
+languageName = "En"
+languageCode = "en-us"
+contentDir = "content/english"
+weight = 1
+# copyright
+copyright = "Distributed under [CC License](#) By [ButterOps.Dev](https://butterops.dev), team@butterops.dev"
+
+################################### Enable Unsafe HTML #####################################
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.extensions]
+      definitionList = true
+      footnote = true
+      linkify = true
+      strikethrough = true
+      table = true
+      taskList = true
+      typographer = true
+    [markup.goldmark.parser]
+      attribute = true
+      autoHeadingID = true
+      autoHeadingIDType = "github"
+    [markup.goldmark.renderer]
+      hardWraps = false
+      unsafe = true
+      xhtml = false
