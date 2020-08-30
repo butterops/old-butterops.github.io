@@ -32,10 +32,7 @@ jobs:
         uses: peaceiris/actions-gh-pages@v3
         with:
           personal_token: ${{ secrets.GH_ACTIONS_TOKEN }}
-          external_repository: butterops/butterops.github.io
-          publish_dir: .
+          publish_dir: ./public
           #   keep_files: true
-          user_name: measdot
-          user_email: grv.rkg@gmail.com
           publish_branch: master
           cname: butterops.dev
