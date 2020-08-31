@@ -1,5 +1,5 @@
 ################################### Default Configuration ############################
-baseurl = "https://butterops.dev/"
+baseurl = "https://www.butterops.dev/"
 title = "Community as a Service"
 theme = "buttery-hugo"
 googleAnalytics = "" # Ex: UA-123-45
