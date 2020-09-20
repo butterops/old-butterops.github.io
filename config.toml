@@ -1,6 +1,6 @@
 ################################### Default Configuration ############################
 baseurl = "https://www.butterops.dev/"
-title = "Community as a Service"
+title = "ButterOps.Dev"
 theme = "buttery-hugo"
 googleAnalytics = "" # Ex: UA-123-45
 disableLanguages = [] # desable language from here
@@ -33,7 +33,7 @@ weight = 1
 
 [[menu.main]]
 name = "Wiki"
-URL = "https://butterops.slite.com"
+URL = "https://butterops.slite.com/app/channels/HBf37j02Ha/notes/UG_vVF1AJR"
 weight = 2
 
 # [[menu.main]]
@@ -41,19 +41,19 @@ weight = 2
 # URL = "https://butterops.dev.to"
 # weight = 3
 
-[[menu.footer]]
-name = "Terms of Services"
-URL = "terms-services"
-weight = 4
+# [[menu.footer]]
+# name = "Terms of Services"
+# URL = "terms-services"
+# weight = 4
 
-[[menu.footer]]
-name = "Privacy Policy"
-URL = "privacy-policy"
-weight = 5
+# [[menu.footer]]
+# name = "Privacy Policy"
+# URL = "privacy-policy"
+# weight = 5
 
 ########################### Default parameters ##########################
 [params]
-logo = "images/logo.png"
+logo = ""
 logo_width = "100px"
 description = "This is meta description"
 author = "ButterOps.Dev"
@@ -65,8 +65,8 @@ preloader = "" # use .png , .svg or .gif format
 
 # Subscription mailchimp
 [params.subscription]
-mailchimp_form_action = "https://gmail.us4.list-manage.com/subscribe/post?u=463ee871f45d2d93748e77cad&amp;id=a0a2c6d074" # replace this url with yours
-mailchimp_form_name = "b_463ee871f45d2d93748e77cad_a0a2c6d074" # replace this code with yours
+# mailchimp_form_action = "https://gmail.us4.list-manage.com/subscribe/post?u=463ee871f45d2d93748e77cad&amp;id=a0a2c6d074" # replace this url with yours
+# mailchimp_form_name = "b_463ee871f45d2d93748e77cad_a0a2c6d074" # replace this code with yours
 
 
 ################################### English language #####################################
@@ -76,7 +76,7 @@ languageCode = "en-us"
 contentDir = "content/english"
 weight = 1
 # copyright
-copyright = "Distributed under [CC License](#) By [ButterOps.Dev](https://butterops.dev), team@butterops.dev"
+copyright = "write to us - team@butterops.dev"
 
 ################################### Enable Unsafe HTML #####################################
 [markup]

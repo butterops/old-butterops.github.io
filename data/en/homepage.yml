@@ -1,54 +1,64 @@
 ############################# banner ############################
 banner:
   enable : true
-  title : "Software Community As <sup>open</sup>Service"
-  content : "Open sourced ``apps``, free ``services`` and shared ``knowledge base`` to start and grow your profitable online business, side projects or software development career."
+  title : "Software community as a Service"
+  content : "We consume open source and create free tools for developers to strengthen their workflow. Collaborate with us to start and grow your profitable online *business*, side *projects* or software development *career*."
   image : "images/creators.png"
   button:
    enable : true
-   label : "Join ButterOps.Dev Free"
+   label : "Join our #slack"
    link : "https://butterops.slack.com"
 
 ############################# Feature ############################
 features:
-  enable : false
-  title : "Co-create<sup>open</sup> to ~~Contribute~~ Earn"
-  image : "images/creators.png"
+  enable : true
+  title : "Open & Free"
+  image : "images/perks.jpg"
 
   # feature at the left of the image
   left_side:
     # feature item loop
-  - title : "Cloud Deployments with CI/CD Pipelines"
-    icon : "tf-ion-ios-alarm-outline"
-    content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatem, inventore?"
+  - title : "CI/CD Pipelines"
+    # icon : "tf-ion-ios-alarm-outline"
+    content : "Inbuilt integrations empower you to do freuent small releases than a big dramatic one."
     
     # feature item loop
-  - title : "Enterprise Std. Collaboration"
-    icon : "tf-ion-ios-bell-outline"
-    content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatem, inventore?"
+  - title : "Automated Infra"
+    # icon : "tf-ion-ios-bell-outline"
+    content : "Deploy your projects into the cloud in about a day with our infrastructure automation."
     
     # feature item loop
-  - title : "Less IT, Zero Silos, Butter Ops"
-    icon : "tf-ion-ios-cart-outline"
-    content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatem, inventore?"
+  - title : "VM and Containers"
+    # icon : "tf-ion-ios-cart-outline"
+    content : "Focus on feature developmnt for your projects that supporitng platforms. We got it covered."
+
+    # feature item loop
+  - title : "Registry & Packages"
+    # icon : "tf-ion-ios-cart-outline"
+    content : "Extend existing solutions.Create and support your own public repositories as open solution."
 
 
   # feature at the right of the image
   right_side:
     # feature item loop
-  - title : "Code & Project Management"
-    icon : "tf-ion-ios-alarm-outline"
-    content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatem, inventore?"
+  - title : "Project Management"
+    # icon : "tf-ion-ios-alarm-outline"
+    content : "Brainstorm your project goals and set thoughtful priorities before you go for creating it."
 
     # feature item loop
-  - title : "Wiki, Slack, Meetings"
-    icon : "tf-ion-ios-bell-outline"
-    content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatem, inventore?"
+  - title : "Collaboration"
+    # icon : "tf-ion-ios-bell-outline"
+    content : "Wiki, Chat, Meetings integration make you collaborate throughout your workflow."
 
     # feature item loop
-  - title : "Security and performance monitoring"
-    icon : "tf-ion-ios-cart-outline"
-    content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatem, inventore?"
+  - title : "Missing a Saas?"
+    # icon : "tf-ion-ios-cart-outline"
+    content : "Life is short, consume a potential SaaS services out there and avoid creating everything."
+
+    # feature item loop
+  - title : "Less IT, Lesser Ops"
+    # icon : "tf-ion-ios-cart-outline"
+    content : "Right abstraction makes us agile and keeps us focussed to development."
 
 
 ############################# promo ############################
