@@ -20,17 +20,17 @@ features:
     # feature item loop
   - title : "CI/CD Pipelines"
     # icon : "tf-ion-ios-alarm-outline"
-    content : "Inbuilt integrations empower you to do freuent small releases than a big dramatic one."
+    content : "Inbuilt integrations empower you to do frequent-small releases than a dramatic-big one."
     
     # feature item loop
-  - title : "Automated Infra"
+  - title : "Automated Infrastructure"
     # icon : "tf-ion-ios-bell-outline"
     content : "Deploy your projects into the cloud in about a day with our infrastructure automation."
     
     # feature item loop
   - title : "VM and Containers"
     # icon : "tf-ion-ios-cart-outline"
-    content : "Focus on feature developmnt for your projects that supporitng platforms. We got it covered."
+    content : "Focus on feature developmnt for your projects than supporitng platforms. We got it covered."
 
     # feature item loop
   - title : "Registry & Packages"
@@ -48,17 +48,17 @@ features:
     # feature item loop
   - title : "Collaboration"
     # icon : "tf-ion-ios-bell-outline"
-    content : "Wiki, Chat, Meetings integration make you collaborate throughout your workflow."
+    content : "Wiki, Chat, Meeting integrations make you collaborate throughout your workflow."
 
     # feature item loop
   - title : "Missing a Saas?"
     # icon : "tf-ion-ios-cart-outline"
-    content : "Life is short, consume a potential SaaS services out there and avoid creating everything."
+    content : "Life is short, consume a potential SaaS services out there and avoid creating from scratch."
 
     # feature item loop
   - title : "Less IT, Lesser Ops"
     # icon : "tf-ion-ios-cart-outline"
-    content : "Right abstraction makes us agile and keeps us focussed to development."
+    content : "Right abstractions can drive agility and keep us focussed to developing core features."
 
 
 ############################# promo ############################
