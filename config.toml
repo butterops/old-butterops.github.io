@@ -55,7 +55,7 @@ weight = 2
 [params]
 logo = ""
 logo_width = "100px"
-description = "This is meta description"
+description = "Software Community As a Service"
 author = "ButterOps.Dev"
 
 # Preloader
