@@ -53,7 +53,7 @@ weight = 2
 
 ########################### Default parameters ##########################
 [params]
-logo = ""
+logo = "images/logo.png"
 logo_width = "100px"
 description = "Software Community As a Service"
 author = "ButterOps.Dev"
