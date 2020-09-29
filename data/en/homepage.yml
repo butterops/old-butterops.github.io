@@ -3,7 +3,7 @@ banner:
   enable : true
   title : "Software community as a Service"
   content : "We consume open source and create free tools for developers to strengthen their workflow. Collaborate with us to start and grow your profitable online *business*, side *projects* or software development *career*."
-  image : "images/creators.png"
+  image : "images/bo-banner.png"
   button:
    enable : true
    label : "Join our #slack"
