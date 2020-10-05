@@ -2,7 +2,7 @@ baseURL = "http://example.org"
 title = "Software Community | ButterOps"
 theme = "buttery"
 
-# defaultContentLanguage = "en"
+defaultContentLanguage = "en"
 # defaultContentLanguageInSubdir = false
 # hasCJKLanguage = true
 

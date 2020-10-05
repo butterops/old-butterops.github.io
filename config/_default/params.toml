@@ -1,6 +1,6 @@
-logoText = "Zzo"
+logoText = ""
 logoType = "short" # long, short
-description = "The Zzo theme for Hugo example site."
+description = "Software community as a Service"
 custom_css = []
 custom_js = []
 useFaviconGenerator = true # https://www.favicon-generator.org/
@@ -13,7 +13,7 @@ notAllowedTypesInHomeSidebar = ["about", "archive", "showcase", "publication", "
 notAllowedTypesInArchive = ["about", "talks", "showcase", "publication", "presentation", "resume"]
 notAllowedTypesInHomeFeed = ["about", "archive", "contact", "talks", "showcase", "publication", "presentation", "resume", "gallery"]
 
-viewportSize = "normal" # widest, wider, wide, normal, narrow
+viewportSize = "wide" # widest, wider, wide, normal, narrow
 enableUiAnimation = true
 hideSingleContentsWhenJSDisabled = false
 enablePinnedPosts = true
@@ -42,23 +42,23 @@ talksGroupByDate = "2006"
 pubPaginate = 20
 
 # whoami
-myname = "zzossig"
-email = "zzossig@gmail.com"
-whoami = "Web Developer"
+myname = "ButterOps.Dev"
+email = "team@butterops.dev"
+whoami = "Software Community"
 bioImageUrl = ""
 useGravatar = false
-location = "Seoul, Korea"
-organization = "Hugo"
-link = "https://zzossig.io/ko"
+location = "Bangalore, India"
+organization = "Open Source Contributions"
+# link = "https://zzossig.io/ko"
 
 # sidebar
 enableBio = true
-enableBioImage = true
+enableBioImage = false
 enableSidebar = true
 enableSidebarTags = true
 enableSidebarSeries = true
 enableSidebarCategories = true
-enableHomeSidebarTitles = true
+enableHomeSidebarTitles = false
 enableListSidebarTitles = true
 enableToc = true
 hideToc = false
@@ -145,16 +145,16 @@ commento = false
 [socialOptions]
   email = "mailto:your@email.com"
   phone = ""
-  facebook = "http://example.org/"
-  twitter = "http://example.org/"
-  github = "https://github.com/zzossig/hugo-theme-zzo"
+  facebook = ""
+  twitter = ""
+  github = "https://github.com/butterops"
   stack-overflow = ""
   instagram = ""
   google-plus = ""
   youtube = ""
-  medium = ""
+  medium = "https://medium.com/butterops"
   tumblr = ""
-  linkedin = ""
+  linkedin = "https://www.linkedin.com/company/butterops/"
   pinterest = ""
   stack-exchange = ""
   telegram = ""
