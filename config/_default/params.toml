@@ -1,6 +1,6 @@
 logoText = ""
 logoType = "short" # long, short
-description = "Software community as a Service"
+description = "Community of Softawre Devs"
 custom_css = []
 custom_js = []
 useFaviconGenerator = true # https://www.favicon-generator.org/
@@ -13,7 +13,7 @@ notAllowedTypesInHomeSidebar = ["about", "archive", "showcase", "publication", "
 notAllowedTypesInArchive = ["about", "talks", "showcase", "publication", "presentation", "resume"]
 notAllowedTypesInHomeFeed = ["about", "archive", "contact", "talks", "showcase", "publication", "presentation", "resume", "gallery"]
 
-viewportSize = "wide" # widest, wider, wide, normal, narrow
+viewportSize = "normal" # widest, wider, wide, normal, narrow
 enableUiAnimation = true
 hideSingleContentsWhenJSDisabled = false
 enablePinnedPosts = true
@@ -21,6 +21,7 @@ minItemsToShowInTagCloud = 1 # Minimum items to show in tag cloud
 
 # header
 homeHeaderType = "text" # text, img, slide, typewriter
+enableThemeChange = false
 
 # menu
 showMobileMenuTerms = ["tags", "categories", "series"]
@@ -44,7 +45,7 @@ pubPaginate = 20
 # whoami
 myname = "ButterOps.Dev"
 email = "team@butterops.dev"
-whoami = "Software Community"
+whoami = "Community of Software Devs."
 bioImageUrl = ""
 useGravatar = false
 location = "Bangalore, India"
@@ -59,7 +60,7 @@ enableSidebarTags = true
 enableSidebarSeries = true
 enableSidebarCategories = true
 enableHomeSidebarTitles = false
-enableListSidebarTitles = true
+enableListSidebarTitles = false
 enableToc = true
 hideToc = false
 tocFolding = true
@@ -72,10 +73,9 @@ enableSidebarPostsByOrder = false
 
 # footer
 # showPoweredBy = true
-showFeedLinks = true
+showFeedLinks = false
 showSocialLinks = true
 enableLangChange = false
-enableThemeChange = true
 
 # service
 googleTagManager = "" # GTM-XXXXXX

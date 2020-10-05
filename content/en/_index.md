@@ -2,22 +2,22 @@
 header:
   - type: typewriter
     methods:
-      - typeString: Hello world!
-      - pauseFor: 2500
-      - deleteAll: true
-      - typeString: Strings can be removed
-      - pauseFor: 2500
-      - deleteChars: 7
-      - typeString: <strong>altered!</strong>
-      - pauseFor: 2500
+      - typeString: Open Team & Projects to <strong>learn!</strong>
+      - pauseFor: 500
+      - deleteChars: 6
+      - typeString: <strong>Collaborate!</strong>
+      - pauseFor: 500 
+      - deleteChars: 12
+      - typeString: <strong>Create!</strong>
+      - pauseFor: 500
     options:
-      loop: true
-      autoStart: false
+      loop: false
+      autoStart: true
     height: 190
     paddingX: 50
     align: center
     fontSize: 44
-    fontColor: yellow
+    fontColor: white
     
   - type: text
     height: 200
@@ -25,15 +25,15 @@ header:
     paddingY: 0
     align: center
     title:
-      - HUGO
+      - Dev Community
     subtitle:
-      - The world’s fastest framework for building websites
+      - Creating free and open sourced solutions, that solves our own problems
     titleColor: 
     titleShadow: true
     titleFontSize: 44
     subtitleColor: 
     subtitleCursive: true
-    subtitleFontSize: 18
+    subtitleFontSize: 20
     spaceBetweenTitleSubtitle: 16
   
   - type: img
@@ -46,9 +46,9 @@ header:
     paddingY: 0
     align: center
     title:
-      -
+      - Software Community
     subtitle:
-      -
+      - Creating free and open sourced solutions that solves our own problems
     titleColor:
     titleShadow: false
     titleFontSize: 44
