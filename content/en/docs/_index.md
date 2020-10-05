@@ -1,7 +1,7 @@
 +++
 aliases = ["posts","articles","blog","showcase","docs"]
 title = "Docs"
-author = "Hugo Authors"
+author = "ButterOps Authors"
 tags = ["index"]
-description = "Post page"
+description = "Docs page"
 +++
