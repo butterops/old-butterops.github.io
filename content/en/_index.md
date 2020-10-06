@@ -27,7 +27,7 @@ header:
     title:
       - Dev Community
     subtitle:
-      - Creating free and open sourced solutions, that solves our own problems
+      - Creating free & open-sourced solutions, that solves our own problems
     titleColor: 
     titleShadow: true
     titleFontSize: 44

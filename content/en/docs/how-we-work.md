@@ -1,21 +1,22 @@
 ---
-title: "Eearning from open source works"
+title: "How do we work together?"
 date: 2019-12-18T10:33:41+09:00
-description: "Syntax highlighting test"
+description: CI/CD Pipelines, Automated Infrastructure, VM and Containers, Registry & Packages, Project Management, Collaboration, Less IT even Lesser Ops
 draft: false
 hideToc: false
 enableToc: true
 enableTocContent: false
-author: Jeus
+author: measdot
 authorEmoji: 🎅
-pinned: true
+pinned: false
 tags:
-- hugo
+- tools
+- work-culture
 series:
 -
 categories:
-- hugo
-image: images/feature2/color-palette.png
+- Community
+# image: logo.png
 ---
 
 ## Code Syntax Highlighting

@@ -1,4 +1,4 @@
-logoText = ""
+logoText = "DEV"
 logoType = "short" # long, short
 description = "Community of Softawre Devs"
 custom_css = []
@@ -43,17 +43,17 @@ talksGroupByDate = "2006"
 pubPaginate = 20
 
 # whoami
-myname = "ButterOps.Dev"
+myname = "butterops.dev"
 email = "team@butterops.dev"
 whoami = "Community of Software Devs."
 bioImageUrl = ""
 useGravatar = false
 location = "Bangalore, India"
 organization = "Open Source Contributions"
-# link = "https://zzossig.io/ko"
+link = ""
 
 # sidebar
-enableBio = true
+enableBio = false
 enableBioImage = false
 enableSidebar = true
 enableSidebarTags = true
@@ -143,7 +143,7 @@ commento = false
   dataAttrs = "" # "data-isso='https://isso.example.com' data-isso-require-author='true'"
 
 [socialOptions]
-  email = "mailto:your@email.com"
+  email = "mailto:team@butterops.dev"
   phone = ""
   facebook = ""
   twitter = ""
