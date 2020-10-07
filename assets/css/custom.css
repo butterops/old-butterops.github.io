@@ -2,8 +2,6 @@
     display: none;
 }
 
-
-
 .theme__kimbie #container {
     background-color: #221a0f;
 }
@@ -11,11 +9,9 @@
     background-color: #fdf7e3;
 }
 
-
 .navbar {
     max-width: initial;
 }
-
 /* ----------- 950px - 1200px ----------- */
 @media screen 
   and (min-width: 951px) 
