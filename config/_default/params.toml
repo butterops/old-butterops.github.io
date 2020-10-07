@@ -1,11 +1,11 @@
 logoText = "DEV"
 logoType = "short" # long, short
 description = "Community of Softawre Devs"
-custom_css = []
+custom_css = ["css/custom.css",]
 custom_js = ["/js/custom.js", ]
 useFaviconGenerator = true # https://www.favicon-generator.org/
 meta_image = ""
-themecolor = ""
+themecolor = "solarized"
 
 themeOptions = ["solarized", "kimbie"] #"dark", "light", "hacker", "solarized", "kimbie"
 notAllowedTypesInHome = ["contact", "talks", "about", "showcase", "publication", "presentation", "resume", "docs"]
