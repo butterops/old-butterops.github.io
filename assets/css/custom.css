@@ -5,6 +5,7 @@
 .expand__content{
     font-weight: 100;
 }
+
 .theme__kimbie #container {
     background-color: #221a0f;
 }
@@ -15,6 +16,15 @@
 .navbar {
     max-width: initial;
 }
+
+/* ----------- 1px - 950px ----------- */
+@media screen 
+  and (max-width: 950px){
+    .navbar {
+        padding: 0 10px
+    }
+}
+
 /* ----------- 950px - 1200px ----------- */
 @media screen 
   and (min-width: 951px) 
