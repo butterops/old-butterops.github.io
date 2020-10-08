@@ -10,7 +10,7 @@ date = "2019-02-28"
 Today, we empower digital literacy among software developers with open-source tools and services.
 
 > 'Open' isn't just a technological shift, it's "how we'll work, live, and learn in the future".
-> David Price
+> -David Price
 
 Collaborate with us to start and grow your <mark>online service | side projects | software skills</mark>.
 
