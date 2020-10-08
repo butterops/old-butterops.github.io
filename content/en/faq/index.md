@@ -1,6 +1,6 @@
 
 +++
-title = "FAQ"
+title = "Free and open!"
 description = "Hugo, the world’s fastest framework for building websites"
 type = "about"
 date = "2019-02-28"
@@ -9,13 +9,13 @@ date = "2019-02-28"
  <!--FAQ  -->
 {{< expand "How to join butterops dev community?" >}}
 
-You can join us by sending an invite reuest on our slack workspace `https://butterops.slack.com`.
+You can join us by sending an invite request on our slack workspace `https://butterops.slack.com`.
 Or, you can also click on this link [#our-slack-workspace](https://butterops.slack.com)
 
 {{< /expand >}}
 
  <!--FAQ  -->
-{{< expand "Is this service chargable at some point?" >}}
+{{< expand "Is this service chargeable at some point?" >}}
 
 Absolutely not!! We will be forever free.
 

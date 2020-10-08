@@ -1,5 +1,5 @@
 ---
-title: "Remotely collborate with our team on your next idea"
+title: "Remotely collaborate with our team on your next idea"
 date: 2019-12-18T10:33:41+09:00
 description: CI/CD Pipelines, Automated Infrastructure, VM and Containers, Registry & Packages, Project Management, Collaboration, Less IT even Lesser Ops
 draft: false
