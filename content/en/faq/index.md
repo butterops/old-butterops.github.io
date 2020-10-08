@@ -44,6 +44,6 @@ We are still early in the process of building this out. The early experience mig
 
 {{< /expand >}}
 
-#### I want to know more...
+## I want to know more...
 
-We will be eager to hear you. Ask me personally inside [our #slack workspace](https://butterops.slack.com) or mail us at  [team@butterops.dev](mailto:team@butterops.dev)
+We will be eager to hear you. Ask me personally inside [our #slack](https://butterops.slack.com) or mail us at  team@butterops.dev

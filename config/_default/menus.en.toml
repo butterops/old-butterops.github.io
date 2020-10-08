@@ -1,25 +1,26 @@
 [[main]]
-  identifier = "community"
-  name = "Community"
-  weight = 4
+  identifier = "home"
+  name = "Home"
+  url = "/"
+  weight = 1
 
 [[main]]
-  parent = "community"
+  parent = "home"
   name = "Faq"
-  url = "community/faq"
-  weight = 4
+  url = "faq"
+  weight = 1
 
 [[main]]
-  parent = "community"
+  parent = "home"
   name = "About Us"
-  url = "community/about"
-  weight = 4
+  url = "about"
+  weight = 2
 
 [[main]]
-  parent = "community"
+  parent = "home"
   name = "Join Us"
-  url = "community/join"
-  weight = 4
+  url = "join"
+  weight = 3
 
 [[main]]
   identifier = "docs"
@@ -33,11 +34,11 @@
   url = "showcase"
   weight = 2
 
-[[main]]
-  identifier = "home"
-  name = "Home"
-  url = "/"
-  weight = 1
+# [[main]]
+#   identifier = "home"
+#   name = "Home"
+#   url = "/"
+#   weight = 1
 
   [[main]]
   identifier = "slack"

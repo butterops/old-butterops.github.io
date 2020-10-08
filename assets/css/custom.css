@@ -2,6 +2,9 @@
     display: none;
 }
 
+.expand__content{
+    font-weight: 100;
+}
 .theme__kimbie #container {
     background-color: #221a0f;
 }
