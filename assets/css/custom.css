@@ -1,7 +1,24 @@
+.theme__kimbie .showcase__box--meta .type {
+    color: inherit;
+}
+/* .summary-classic__image-wrapper {
+    width: 200px;
+    height: 200px;
+} */
+.summary-classic__image-wrapper a img{
+    display:block;
+    margin:auto;
+}
 .theme__solarized .bio__social a,
 .theme__kimbie .bio__social a {
     color: inherit;
     cursor: alias;
+}
+
+.theme__kimbie .breadcrumb li a,
+.theme__kimbie a,
+.theme__kimbie .taxo .is-tags {
+    color: #f06431;
 }
 
 .theme__kimbie .bio__social a:hover, .theme__kimbie .bio__social a:active, .theme__kimbie .bio__social a:focus {

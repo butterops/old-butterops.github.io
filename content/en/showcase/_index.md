@@ -1,5 +1,5 @@
 ---
-title: "On-going Projects Overview"
+title: "On-going Projects"
 date: 2020-01-19T15:43:38+09:00
 description: repositories, works overview page
 enableBio: false
