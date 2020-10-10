@@ -16,7 +16,7 @@ series:
 -
 categories:
 -
-image: logo.png
+# image: logo.png
 ---
 
 Every app developer at some point has to face challenges like carrying out 'rapid app development', 'platform support' and 'operational maintenance' all at the same time.

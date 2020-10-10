@@ -16,7 +16,7 @@ series:
 -
 categories:
 - 
-image: logo.png
+# image: logo.png
 ---
 
 Eventually every IT company is solving problems with softwares, it is a matter of time when they all release their source codes out of competition or humanity.

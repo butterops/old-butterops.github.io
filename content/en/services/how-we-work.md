@@ -13,7 +13,7 @@ weight: 1
 tags:
 series:
 categories:
-image: logo.png
+# image: logo.png
 ---
 > Creating and maintaining an app is a complex task but not necessarily complicated.
 
