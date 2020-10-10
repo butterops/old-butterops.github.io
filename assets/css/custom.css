@@ -1,3 +1,8 @@
+.navbar__logo-link,
+.subtitle.caption{
+    display: none;
+}
+
 .hr-slash.bio-hr{
     display: none;
 }

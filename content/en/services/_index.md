@@ -1,6 +1,6 @@
 +++
 aliases = ["posts","articles","blog","showcase"]
-title = "Features"
+title = "Services"
 author = "ButterOps Authors"
 tags = [""]
 description = "Features of dev community"

@@ -1,4 +1,4 @@
-logoText = "DEV"
+logoText = "ButterOps"
 logoType = "short" # long, short
 description = "Community of Softawre Devs"
 custom_css = ["css/custom.css",]
@@ -9,7 +9,7 @@ themecolor = "solarized"
 
 themeOptions = ["solarized", "kimbie"] #"dark", "light", "hacker", "solarized", "kimbie"
 notAllowedTypesInHome = ["contact", "talks", "about", "showcase", "publication", "presentation", "resume", "docs"]
-notAllowedTypesInHomeSidebar = ["about", "archive", "showcase", "publication", "presentation", "resume"]
+notAllowedTypesInHomeSidebar = ["services","about", "archive", "ashowcase", "publication", "presentation", "resume"]
 notAllowedTypesInArchive = ["about", "talks", "showcase", "publication", "presentation", "resume"]
 notAllowedTypesInHomeFeed = ["about", "archive", "contact", "talks", "showcase", "publication", "presentation", "resume", "gallery"]
 
@@ -43,13 +43,13 @@ talksGroupByDate = "2006"
 pubPaginate = 20
 
 # whoami
-myname = "butterops.dev"
-email = "team@butterops.dev"
+# myname = "butterops.dev"
+# email = "team@butterops.dev"
 # whoami = "Community of Software Devs."
-bioImageUrl = "images/whoami/avatar.jpg"
+# bioImageUrl = ""
 useGravatar = false
-location = "Bangalore, India"
-organization = "Community of Software Devs"
+# location = "Bangalore, India"
+# organization = "Community of Software Devs"
 link = ""
 
 # sidebar
@@ -59,7 +59,7 @@ enableSidebar = true
 enableSidebarTags = true
 enableSidebarSeries = true
 enableSidebarCategories = true
-enableHomeSidebarTitles = false
+enableHomeSidebarTitles = true
 enableListSidebarTitles = false
 enableToc = true
 hideToc = false
@@ -69,7 +69,7 @@ enableTocSwitch = true
 itemsPerCategory = 5
 sidebarPosition = "right"
 tocLevels = ["h2", "h3", "h4"]
-enableSidebarPostsByOrder = false
+enableSidebarPostsByOrder = true
 
 # footer
 # showPoweredBy = true

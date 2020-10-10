@@ -1,5 +1,5 @@
 +++
-title = "We'r a dev community!"
+title = "Our Story"
 description = "Hugo, the world’s fastest framework for building websites"
 type = "about"
 date = "2019-02-28"
@@ -12,6 +12,6 @@ Today, we empower digital literacy among software developers with open-source to
 > 'Open' isn't just a technological shift, it's "how we'll work, live, and learn in the future".
 > -David Price
 
-Collaborate with us to start and grow your <mark>online service | side projects | software skills</mark>.
+Collaborate with us to start and grow your - online service | side projects | software skills.
 
 Join <a href="https://butterops.slack.com/" target="_blank">our #slack workspace</a> today!
