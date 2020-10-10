@@ -145,6 +145,7 @@ commento = false
 [socialOptions]
   email = "mailto:team@butterops.dev"
   phone = ""
+  slack = "https://butterops.slack.com"
   facebook = ""
   twitter = ""
   github = "https://github.com/butterops"
@@ -189,8 +190,8 @@ commento = false
   name = "twitter"
 
 [[footerLinks]]
-  name = ""
+  name = "Premium Support"
   link = ""
 [[footerLinks]]
-  name = ""
+  name = "Terms of Services"
   link = ""

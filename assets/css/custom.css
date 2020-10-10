@@ -1,4 +1,13 @@
-/* .navbar__logo-link, */
+.theme__solarized .bio__social a,
+.theme__kimbie .bio__social a {
+    color: inherit;
+    cursor: alias;
+}
+
+.theme__kimbie .bio__social a:hover, .theme__kimbie .bio__social a:active, .theme__kimbie .bio__social a:focus {
+    color: #f06431;
+}
+
 .subtitle.caption,
 .bio__name, .bio__desc{
     display: none;

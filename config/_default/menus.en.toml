@@ -33,15 +33,3 @@
   name = "Projects"
   url = "showcase"
   weight = 2
-
-# [[main]]
-#   identifier = "home"
-#   name = "Home"
-#   url = "/"
-#   weight = 1
-
-  [[main]]
-  identifier = "slack"
-  name = "#SLACK"
-  url = "https://butterops.slack.com"
-  weight = 5

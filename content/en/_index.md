@@ -27,7 +27,7 @@ header:
     title:
       - Dev Community
     subtitle:
-      - Creating free & open-sourced solutions, that solves our own problems
+      - Creating open-sourced solutions, solving our own problems
     titleColor: 
     titleShadow: true
     titleFontSize: 44
@@ -48,13 +48,13 @@ header:
     title:
       - Dev Community
     subtitle:
-      - Creating free and open-sourced solutions, that solves our own problems
+      - Creating open-sourced solutions, solving our own problems
     titleColor:
     titleShadow: true
     titleFontSize: 50
     subtitleColor:
-    subtitleCursive: true
-    subtitleFontSize: 20
+    subtitleCursive: false
+    subtitleFontSize: 24
     spaceBetweenTitleSubtitle: 20
 
   - type: slide
