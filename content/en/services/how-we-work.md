@@ -1,5 +1,5 @@
 ---
-title: "Remotely collaborate with our team on your next idea"
+title: "Collaborate with our team on your next idea"
 date: 2019-12-18T10:33:41+09:00
 description: Ideas have potential to start attracting audiences. Let's modernize our app development and be ready for that.
 draft: false
@@ -19,7 +19,7 @@ categories:
 
 Every idea has a potential to attract audiences at some point. This leads us the app developers to challenges like carrying out **rapid app development**, **platform support** and **operational maintenance** all at the same time.
 
-- We provide best industry practices of [continuous product development and maintenance 'free' to any/all open source projects](/features/what-we-create).
+- We provide best industry practices of continuous product development and maintenance ['free' to any/all open source projects](/services/what-we-create).
 
 - We are maintaining few [interesting projects](/) that need [more such contributions](/) as they are maturing.
 

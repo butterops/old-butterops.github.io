@@ -37,24 +37,24 @@ header:
     spaceBetweenTitleSubtitle: 16
   
   - type: img
-    imageSrc: images/header/background.jpg
+    imageSrc: images/banner.png
     imageSize: cover
     imageRepeat: no-repeat
     imagePosition: center
-    height: 235
+    height: 200
     paddingX: 50
     paddingY: 0
     align: center
     title:
-      - Software Community
+      - Dev Community
     subtitle:
-      - Creating free and open sourced solutions that solves our own problems
+      - Creating free and open-sourced solutions, that solves our own problems
     titleColor:
-    titleShadow: false
-    titleFontSize: 44
+    titleShadow: true
+    titleFontSize: 50
     subtitleColor:
-    subtitleCursive: false
-    subtitleFontSize: 16
+    subtitleCursive: true
+    subtitleFontSize: 20
     spaceBetweenTitleSubtitle: 20
 
   - type: slide

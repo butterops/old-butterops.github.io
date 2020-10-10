@@ -1,8 +1,14 @@
-.navbar__logo-link,
-.subtitle.caption{
+/* .navbar__logo-link, */
+.subtitle.caption,
+.bio__name, .bio__desc{
     display: none;
 }
 
+.navbar__menu-item,
+.theme__solarized .navbar__slide-down,
+.theme__kimbie .navbar__slide-down {
+        background-color: transparent!important;
+}
 .hr-slash.bio-hr{
     display: none;
 }

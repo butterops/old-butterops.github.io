@@ -1,5 +1,5 @@
 ---
-title: "Sustaining a Product/SaaS ourselves"
+title: "Sustain your Product/SaaS by yourself"
 date: 2019-12-18T10:33:41+09:00
 description: Developers have to face challenges like carrying out rapid app development, platform support and operational maintenance all together. 
 draft: false

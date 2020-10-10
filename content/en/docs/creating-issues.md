@@ -1,7 +1,7 @@
 ---
-title: "Setting up dev environment"
+title: "Creating a Github issue"
 date: 2019-12-18T10:33:41+09:00
-description: Local installations
+description: Less IT even Lesser Ops
 draft: false
 hideToc: false
 enableToc: true

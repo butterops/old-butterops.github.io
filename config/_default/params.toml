@@ -20,7 +20,7 @@ enablePinnedPosts = true
 minItemsToShowInTagCloud = 1 # Minimum items to show in tag cloud
 
 # header
-homeHeaderType = "text" # text, img, slide, typewriter
+homeHeaderType = "img" # text, img, slide, typewriter
 enableThemeChange = true
 
 # menu
@@ -47,10 +47,10 @@ pubPaginate = 20
 # email = "team@butterops.dev"
 # whoami = "Community of Software Devs."
 # bioImageUrl = ""
-useGravatar = false
+# useGravatar = false
 # location = "Bangalore, India"
 # organization = "Community of Software Devs"
-link = ""
+# link = ""
 
 # sidebar
 enableBio = true
