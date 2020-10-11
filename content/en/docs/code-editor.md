@@ -1,5 +1,5 @@
 ---
-title: "Tech and reference materials"
+title: "Mastering VSCode & SpaceVim"
 date: 2019-12-18T10:33:41+09:00
 description: Less IT even Lesser Ops
 draft: false
@@ -10,10 +10,8 @@ author: measdot
 authorEmoji: 🎅
 pinned: false
 tags:
-- node
-- pyhton
-- aws
-- js
+- vscode
+- vim
 series:
 -
 categories:

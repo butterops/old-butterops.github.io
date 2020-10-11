@@ -1,5 +1,5 @@
 ---
-title: "Explore benefits of open-sourcing with us"
+title: "Learn, create and earn in open-source"
 date: 2019-12-18T10:33:41+09:00
 description: IT companies are solving problems with softwares, eventually they all will open their source codes out of competition or humanity.
 draft: false
@@ -11,7 +11,10 @@ authorEmoji: 🎅
 pinned: false
 weight: 3
 tags:
-- 
+- license
+- premium
+- free
+- open-source
 series:
 -
 categories:

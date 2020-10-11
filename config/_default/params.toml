@@ -9,7 +9,7 @@ themecolor = "solarized"
 
 themeOptions = ["solarized", "kimbie"] #"dark", "light", "hacker", "solarized", "kimbie"
 notAllowedTypesInHome = ["contact", "talks", "about", "showcase", "publication", "presentation", "resume", "docs"]
-notAllowedTypesInHomeSidebar = ["services","about", "archive", "ashowcase", "publication", "presentation", "resume"]
+notAllowedTypesInHomeSidebar = ["services","about", "archive", "publication", "presentation", "resume"]
 notAllowedTypesInArchive = ["about", "talks", "showcase", "publication", "presentation", "resume"]
 notAllowedTypesInHomeFeed = ["about", "archive", "contact", "talks", "showcase", "publication", "presentation", "resume", "gallery"]
 
