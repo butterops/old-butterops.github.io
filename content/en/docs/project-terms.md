@@ -10,20 +10,20 @@ author: measdot
 authorEmoji: 🎅
 pinned: false
 tags:
-- vscode
-- vim
+- contributor
+- maintainer
+- license
+- code of conduct
+- issue
+- pull request
 series:
--
 categories:
-- Community
 # image: logo.png
 ---
 
 For anything more than a typo fix, contributing to open source is like walking up to a group of strangers at a party. If you start talking about llamas, while they were deep in a discussion about goldfish, they’ll probably look at you a little strangely.
 
 Before jumping in blindly with your own suggestions, start by learning how to read the room. Doing so increases the chances that your ideas will be noticed and heard.
-
-## Anatomy of an open source project
 
 Every open source community is different.
 

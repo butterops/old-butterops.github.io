@@ -10,12 +10,11 @@ author: measdot
 authorEmoji: 🎅
 pinned: false
 tags:
-- tools
-- work-culture
+- git
+- github
+- issue
 series:
--
 categories:
-- Community
 # image: logo.png
 ---
 

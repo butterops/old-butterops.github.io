@@ -10,12 +10,8 @@ author: measdot
 authorEmoji: 🎅
 pinned: false
 tags:
-- tools
-- work-culture
 series:
--
 categories:
-- Community
 # image: logo.png
 ---
 

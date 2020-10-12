@@ -11,12 +11,8 @@ authorEmoji: 🎅
 pinned: false
 weight: 2
 tags:
-  - free
-  - open-source
 series:
-  -
 categories:
-  -
 # image: logo.png
 ---
 
