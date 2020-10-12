@@ -1,3 +1,6 @@
+article ul{
+    margin: 0 0 1.75rem;
+}
 .theme__kimbie .showcase__box--meta .type {
     color: inherit;
 }

@@ -6,5 +6,5 @@ weight: 2
 link: https://github.com/butterops/gandalf
 repo: https://github.com/butterops/gandalf
 pinned: true
-thumb: dark-gandalf.png
+# thumb: dark-gandalf.png
 ---
