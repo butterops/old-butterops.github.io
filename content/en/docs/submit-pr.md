@@ -1,5 +1,5 @@
 ---
-title: "Create a Github pull request"
+title: "Creating and submit a pull request"
 date: 2019-12-18T10:33:41+09:00
 description: Less IT even Lesser Ops
 draft: false

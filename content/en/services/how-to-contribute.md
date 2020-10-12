@@ -1,11 +1,11 @@
 ---
-title: What it means to contribute?
+title: What does it mean to contribute for your skills?
 date: 2019-12-18T10:33:41+09:00
 description: Want to contribute to open source? A guide to making open source contributions, for first-timers and for veterans
 draft: false
 hideToc: false
 enableToc: false
-enableTocContent: true
+enableTocContent: false
 author: measdot
 authorEmoji: 🎅
 pinned: false
@@ -26,8 +26,6 @@ Not to worry! There are all sorts of ways to get involved with an open source pr
 ## You don’t have to contribute code
 
 A common misconception about contributing to open source is that you need to contribute code. In fact, it’s often the other parts of a project that are most neglected or overlooked. You’ll do the project a huge favor by offering to pitch in with these types of contributions!
-
-Even if you like to write code, other types of contributions are a great way to get involved with a project and meet other community members. Building those relationships will give you opportunities to work on other parts of the project.
 
 ### Do you like planning events?
 
@@ -55,6 +53,10 @@ Write a translation for the project’s documentation
 Link to duplicate issues, and suggest new issue labels, to keep things organized
 Go through open issues and suggest closing old ones
 Ask clarifying questions on recently opened issues to move the discussion forward
+
+## You can contribute code
+
+Even if you like to write code, other types of contributions are a great way to get involved with a project and meet other community members. Building those relationships will give you opportunities to work on other parts of the project.
 
 ### Do you like to code?
 

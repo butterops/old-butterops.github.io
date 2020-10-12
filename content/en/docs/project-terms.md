@@ -1,5 +1,5 @@
 ---
-title: "Understanding ButterOps organization and projects"
+title: "Community project terms"
 date: 2019-12-18T10:33:41+09:00
 description: Less IT even Lesser Ops
 draft: false
