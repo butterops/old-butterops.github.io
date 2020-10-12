@@ -51,10 +51,10 @@ header:
       - Creating open-sourced solutions, solving our own problems
     titleColor:
     titleShadow: true
-    titleFontSize: 50
+    titleFontSize: 44
     subtitleColor:
     subtitleCursive: false
-    subtitleFontSize: 24
+    subtitleFontSize: 20
     spaceBetweenTitleSubtitle: 20
 
   - type: slide
