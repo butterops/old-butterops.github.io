@@ -21,12 +21,6 @@ Absolutely not!! We will be forever free.
 
 {{< /expand >}}
 
- <!--FAQ  -->
-{{< expand "Am I eligible to join?" >}}
-
-As long as you have a motive you are willing to share with us, you are welcome.
-
-{{< /expand >}}
 
  <!--FAQ  -->
 {{< expand "What is butterops.dev?" >}}
