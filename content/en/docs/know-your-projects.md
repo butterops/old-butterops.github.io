@@ -1,5 +1,5 @@
 ---
-title: "Community project terms"
+title: "Know your projects"
 date: 2019-12-18T10:33:41+09:00
 description: Less IT even Lesser Ops
 draft: false
@@ -49,10 +49,7 @@ A project also has documentation. These files are usually listed in the top leve
 - **CODE_OF_CONDUCT:** The code of conduct sets ground rules for participants’ behavior associated and helps to facilitate a friendly, welcoming environment. While not every project has a CODE_OF_CONDUCT file, its presence signals that this is a welcoming project to contribute to.
 - **Other documentation:** There might be additional documentation, such as tutorials, walk-through, or governance policies, especially on bigger projects.
 
-Finally, open source projects use the following tools to organize discussion. Reading through the archives will give you a good picture of how the community thinks and works.
+Finally, our projects use the following tools to organize discussion. Reading through the archives will give you a good picture of how the community thinks and works.
 
-- **Issue tracker:** Where people discuss issues related to the project.
-- **Pull requests:** Where people discuss and review changes that are in progress.
-- **Discussion forums** or mailing lists: Some projects may use these channels for conversational topics (for example, “How do I…“ or “What do you think about…“ instead of bug reports or feature requests). Others use the issue tracker for all conversations.
-- **Synchronous chat channel:** Some projects use chat channels (such as Slack or IRC) for casual conversation, collaboration, and quick exchanges.
-
+- **Issue tracker:** Where people discuss issues related to the project. Zenhub
+- **Synchronous chat channel:** We use slack channels for casual conversation, collaboration, and quick exchanges.
