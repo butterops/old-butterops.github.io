@@ -1,0 +1,197 @@
+logoText = "ButterOps"
+logoType = "short" # long, short
+description = "Community of Softawre Devs"
+custom_css = ["css/custom.css",]
+custom_js = ["/js/custom.js", ]
+useFaviconGenerator = true # https://www.favicon-generator.org/
+meta_image = ""
+themecolor = "solarized"
+
+themeOptions = ["solarized", "kimbie"] #"dark", "light", "hacker", "solarized", "kimbie"
+notAllowedTypesInHome = ["contact", "talks", "about", "showcase", "publication", "presentation", "resume", "docs"]
+notAllowedTypesInHomeSidebar = ["services","about", "archive", "publication", "presentation", "resume"]
+notAllowedTypesInArchive = ["about", "talks", "showcase", "publication", "presentation", "resume"]
+notAllowedTypesInHomeFeed = ["about", "archive", "contact", "talks", "showcase", "publication", "presentation", "resume", "gallery"]
+
+viewportSize = "narrow" # widest, wider, wide, normal, narrow
+enableUiAnimation = true
+hideSingleContentsWhenJSDisabled = false
+enablePinnedPosts = true
+minItemsToShowInTagCloud = 1 # Minimum items to show in tag cloud
+
+# header
+homeHeaderType = "img" # text, img, slide, typewriter
+enableThemeChange = true
+
+# menu
+showMobileMenuTerms = ["tags", "categories", "series"]
+
+# body
+enableBreadcrumb = true
+enablePhotoSwipe = true
+enableSearch = true
+enableSearchHighlight = true
+enableGoToTop = true
+enableWhoami = false
+summaryShape = "classic" # card, classic, compact
+searchResultPosition = "main" # side, main
+archiveGroupByDate = "2006" # "2006-01": group by month, "2006": group by year
+archivePaginate = 13
+paginateWindow = 1
+talksPaginate = 5
+talksGroupByDate = "2006"
+pubPaginate = 20
+
+# whoami
+# myname = "butterops.dev"
+# email = "team@butterops.dev"
+# whoami = "Community of Software Devs."
+# bioImageUrl = ""
+# useGravatar = false
+# location = "Bangalore, India"
+# organization = "Community of Software Devs"
+# link = ""
+
+# sidebar
+enableBio = true
+enableBioImage = false
+enableSidebar = true
+enableSidebarTags = true
+enableSidebarSeries = true
+enableSidebarCategories = false
+enableHomeSidebarTitles = true
+enableListSidebarTitles = false
+enableToc = true
+hideToc = false
+tocFolding = true
+tocPosition = "inner" # inner, outer
+enableTocSwitch = true
+itemsPerCategory = 5
+sidebarPosition = "right"
+tocLevels = ["h2", "h3", "h4"]
+enableSidebarPostsByOrder = true
+
+# footer
+# showPoweredBy = true
+showFeedLinks = false
+showSocialLinks = true
+enableLangChange = false
+
+# service
+googleTagManager = "" # GTM-XXXXXX
+baiduAnalytics = ""
+enableBusuanzi = false
+busuanziSiteUV = true
+busuanziSitePV = true
+busuanziPagePV = true
+
+# rss
+updatePeriod = "" # Possible values: 'hourly', 'daily', 'weekly', 'monthly', or 'yearly'.
+updateFrequency = ""
+fullContents = false
+
+# comment
+enableComment = true
+disqus_shortname = ""
+commento = false
+
+[telegram]
+  enable = false
+  siteId = ""
+  dataLimit = 5
+
+[gitment]          # Gitment is a comment system based on GitHub issues. see https://github.com/imsun/gitment
+  owner = ""              # Your GitHub ID
+  repo = ""               # The repo to store comments
+  clientId = ""           # Your client ID
+  clientSecret = ""       # Your client secret
+
+[utterances]       # https://utteranc.es/
+  owner = ""              # Your GitHub ID
+  repo = ""               # The repo to store comments
+
+[gitalk]           # Gitalk is a comment system based on GitHub issues. see https://github.com/gitalk/gitalk
+  owner = ""              # Your GitHub ID
+  repo = ""               # The repo to store comments
+  clientId = ""           # Your client ID
+  clientSecret = ""       # Your client secret
+
+# Valine.
+# You can get your appid and appkey from https://leancloud.cn
+# more info please open https://valine.js.org
+[valine]
+  enable = false
+  appId = '你的appId'
+  appKey = '你的appKey'
+  notify = false  # mail notifier , https://github.com/xCss/Valine/wiki
+  verify = false # Verification code
+  avatar = 'mm' 
+  placeholder = '说点什么吧...'
+  visitor = false
+
+[changyan]
+  changyanAppid = ""        # Changyan app id             # 畅言
+  changyanAppkey = ""       # Changyan app key
+
+[livere]
+  livereUID = ""            # LiveRe UID                  # 来必力
+
+# Isso: https://posativ.org/isso/
+[isso]
+  enable = false
+  scriptSrc = "" # "https://isso.example.com/js/embed.min.js"
+  dataAttrs = "" # "data-isso='https://isso.example.com' data-isso-require-author='true'"
+
+[socialOptions]
+  email = "mailto:team@butterops.dev"
+  phone = ""
+  slack = "https://butterops.slack.com"
+  facebook = ""
+  twitter = ""
+  github = "https://github.com/butterops"
+  stack-overflow = ""
+  instagram = ""
+  google-plus = ""
+  youtube = ""
+  medium = "https://medium.com/butterops"
+  tumblr = ""
+  linkedin = "https://www.linkedin.com/company/butterops/"
+  pinterest = ""
+  stack-exchange = ""
+  telegram = ""
+  steam = ""
+  weibo = ""
+  douban = ""
+  csdn = ""
+  gitlab = ""
+  mastodon = ""
+  jianshu = ""
+  zhihu = ""
+  signal = ""
+  whatsapp = ""
+  matrix = ""
+  xmpp = ""
+  dev-to = ""
+  gitea = ""
+  google-scholar = ""
+
+[donationOptions]
+  enable = false
+  alipay = "" 
+  wechat = ""
+  paypal = ""
+  patreon = ""
+
+# possible share name: ["facebook","twitter", "reddit", "linkedin", "tumblr", "weibo", "douban", "line"]
+[[share]]
+  name = "facebook"
+  username = ""
+[[share]]
+  name = "twitter"
+
+[[footerLinks]]
+  name = ""
+  link = ""
+[[footerLinks]]
+  name = ""
+  link = ""

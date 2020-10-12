@@ -1,0 +1,35 @@
+[[main]]
+  identifier = "home"
+  name = "Community"
+  url = "/"
+  weight = 1
+
+[[main]]
+  parent = "home"
+  name = "Faq"
+  url = "faq"
+  weight = 1
+
+[[main]]
+  parent = "home"
+  name = "About Us"
+  url = "about"
+  weight = 2
+
+[[main]]
+  parent = "home"
+  name = "Join Us"
+  url = "join"
+  weight = 3
+
+[[main]]
+  identifier = "docs"
+  name = "Docs"
+  url = "docs"
+  weight = 3
+
+[[main]]
+  identifier = "showcase"
+  name = "Projects"
+  url = "showcase"
+  weight = 2
