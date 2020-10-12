@@ -1,7 +1,7 @@
 ---
-title: "Learn, create and earn in open-source"
+title: "We should contribute to the open source more often."
 date: 2019-12-18T10:33:41+09:00
-description: IT companies are solving problems with softwares, eventually they all will open their source codes out of competition or humanity.
+description: IT companies are solving problems with softwares, eventually they all will open their source codes out of competition.
 draft: false
 hideToc: true
 enableToc: false
@@ -9,7 +9,7 @@ enableTocContent: false
 author: measdot
 authorEmoji: 🎅
 pinned: false
-weight: 3
+weight: 2
 tags:
 - license
 - premium

@@ -1,6 +1,7 @@
 .theme__kimbie .showcase__box--meta .type {
     color: inherit;
 }
+
 /* .summary-classic__image-wrapper {
     width: 200px;
     height: 200px;
@@ -13,6 +14,9 @@
 .theme__kimbie .bio__social a {
     color: inherit;
     cursor: alias;
+}
+.theme__solarized .bio__social a{
+    color: #637c84;
 }
 
 .theme__kimbie .breadcrumb li a,
