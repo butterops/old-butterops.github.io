@@ -1,7 +1,7 @@
 ---
 title: "Creating a Github issue"
 date: 2019-12-18T10:33:41+09:00
-description: Less IT even Lesser Ops
+description: Issues are a great way to keep track of tasks, enhancements, and bugs for our projects. They’re kind of like messages that can be shared and discussed with the rest of the team.
 draft: false
 hideToc: false
 enableToc: false

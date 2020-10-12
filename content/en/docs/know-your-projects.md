@@ -1,11 +1,11 @@
 ---
 title: "Know your projects"
 date: 2019-12-18T10:33:41+09:00
-description: Less IT even Lesser Ops
+description: Spending years on one open source project means you’ve gotten to know one open source project. Move to a different project, and you might find the vocabulary, norms, and communication styles are completely different.
 draft: false
 hideToc: false
 enableToc: false
-enableTocContent: true
+enableTocContent: false
 author: measdot
 authorEmoji: 🎅
 pinned: false

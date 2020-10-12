@@ -1,7 +1,7 @@
 ---
 title: "Submit a pull request"
 date: 2019-12-18T10:33:41+09:00
-description: Less IT even Lesser Ops
+description: Pull requests are a mechanism for a developer to notify team members that they have completed a feature.
 draft: false
 hideToc: false
 enableToc: false
