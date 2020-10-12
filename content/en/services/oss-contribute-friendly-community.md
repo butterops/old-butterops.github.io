@@ -1,7 +1,7 @@
 ---
 title: "Contribute to open-source projects in a friendly community"
 date: 2019-12-18T10:33:41+09:00
-description: ButterOps Ecosystem helps you subscribe to your favorite projects and get a new open issue from us in your inbox every day. Read blog posts and guides on how to contribute to the projects, then pick one!
+description: Contributing to open source for the first time can be scary and a little overwhelming. Perhaps you’re a code newbie or maybe you’ve been coding for a while but haven’t found a project you felt comfortable contributing to.
 draft: false
 hideToc: true
 enableToc: false
