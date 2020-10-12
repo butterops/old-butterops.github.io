@@ -1,5 +1,5 @@
 ---
-title: "Creating a Github issue"
+title: "Creating an issue on Github"
 date: 2019-12-18T10:33:41+09:00
 description: Issues are a great way to keep track of tasks, enhancements, and bugs for our projects. They’re kind of like messages that can be shared and discussed with the rest of the team.
 draft: false
