@@ -5,7 +5,7 @@ type = "about"
 date = "2019-02-28"
 +++
 
-`ButterOps Dev Community` is a free and open organization headquartered in Bengaluru, India. I <a href="https://kgaurav.online" target="_blank">@measdot</a>, brought this multi disciplinary software team together in early 2020. Our founding team includes experts in Product / SaaS Development.
+`ButterOps Dev Community` is a free and open organization headquartered in Bengaluru, India. I <a href="https://kgaurav.online" target="_blank">@mrdotkg</a>, brought this multi disciplinary software team together in early 2020. Our founding team includes experts in Product / SaaS Development.
 
 Today, we empower digital literacy among software developers with open-source tools and services.
 
